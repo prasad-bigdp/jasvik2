@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Nova
-Template URL: https://bootstrapmade.com/nova-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Jasvik Solutions
+Template URL: https://Jasvik solutions.com/Jasvik Solutions-bootstrap-business-template/
+Author: Jasvik solutions.com
+License: https://Jasvik solutions.com/license/
