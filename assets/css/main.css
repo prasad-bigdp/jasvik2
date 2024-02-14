@@ -2061,7 +2061,7 @@ section {
 }
 
 .footer .footer-content {
-	background-color: #f7f9fc;
+	background-color: black;
 	background-size: contain;
 	padding: 60px 0 30px 0;
 }
@@ -2084,7 +2084,7 @@ section {
 	font-size: 30px;
 	font-weight: 700;
 	letter-spacing: 1px;
-	color: var(--color-secondary);
+	color: white;
 	font-family: var(--font-secondary);
 	margin-top: 3px;
 }
@@ -2093,7 +2093,7 @@ section {
 	font-size: 15px;
 	margin-bottom: 0;
 	font-family: var(--font-primary);
-	color: var(--color-secondary);
+	color: white;
 }
 
 .footer .footer-content .social-links a {
@@ -2114,13 +2114,13 @@ section {
 }
 
 .footer .footer-content .social-links a:hover {
-	background-color: #38618e;
+	background-color: var(--color-default);
 }
 
 .footer .footer-content h4 {
 	font-size: 16px;
 	font-weight: bold;
-	color: #29486a;
+	color: white;
 	position: relative;
 	padding-bottom: 12px;
 }
@@ -2137,7 +2137,7 @@ section {
 
 .footer .footer-content .footer-links ul i {
 	margin-right: 2px;
-	color: var(--color-primary);
+	color:white;
 	font-size: 16px;
 	line-height: 0;
 }
@@ -2153,7 +2153,7 @@ section {
 }
 
 .footer .footer-content .footer-links ul a {
-	color: #31547c;
+	color: white;
 	transition: 0.3s;
 	display: inline-block;
 	line-height: 1;
